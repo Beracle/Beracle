@@ -1,6 +1,6 @@
 <h1>欢迎来到我的主页！</h1>
 
-CSDN 云原生优质创作者，专注于【大数据】、【云原生】、【云计算】、【测试技术】等领域。
+CSDN 云原生领域优质创作者，专注于【大数据】、【云原生】、【云计算】、【测试技术】等领域。
 
 <img src="https://github-readme-stats.vercel.app/api?username=Beracle&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=f9f9f9" /><!-- wi*quL3fcV -->
 
